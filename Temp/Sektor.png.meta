@@ -1,0 +1,4049 @@
+fileFormatVersion: 2
+guid: c2ba91c46723b534bb34211233e99520
+timeCreated: 1447877789
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sektor_0
+    21300002: Sektor_1
+    21300004: Sektor_2
+    21300006: Sektor_3
+    21300008: Sektor_4
+    21300010: Sektor_5
+    21300012: Sektor_6
+    21300014: Sektor_7
+    21300016: Sektor_8
+    21300018: Sektor_9
+    21300020: Sektor_10
+    21300022: Sektor_11
+    21300024: Sektor_12
+    21300026: Sektor_13
+    21300028: Sektor_14
+    21300030: Sektor_15
+    21300032: Sektor_16
+    21300034: Sektor_17
+    21300036: Sektor_18
+    21300038: Sektor_19
+    21300040: Sektor_20
+    21300042: Sektor_21
+    21300044: Sektor_22
+    21300046: Sektor_23
+    21300048: Sektor_24
+    21300050: Sektor_25
+    21300052: Sektor_26
+    21300054: Sektor_27
+    21300056: Sektor_28
+    21300058: Sektor_29
+    21300060: Sektor_30
+    21300062: Sektor_31
+    21300064: Sektor_32
+    21300066: Sektor_33
+    21300068: Sektor_34
+    21300070: Sektor_35
+    21300072: Sektor_36
+    21300074: Sektor_37
+    21300076: Sektor_38
+    21300078: Sektor_39
+    21300080: Sektor_40
+    21300082: Sektor_41
+    21300084: Sektor_42
+    21300086: Sektor_43
+    21300088: Sektor_44
+    21300090: Sektor_45
+    21300092: Sektor_46
+    21300094: Sektor_47
+    21300096: Sektor_48
+    21300098: Sektor_49
+    21300100: Sektor_50
+    21300102: Sektor_51
+    21300104: Sektor_52
+    21300106: Sektor_53
+    21300108: Sektor_54
+    21300110: Sektor_55
+    21300112: Sektor_56
+    21300114: Sektor_57
+    21300116: Sektor_58
+    21300118: Sektor_59
+    21300120: Sektor_60
+    21300122: Sektor_61
+    21300124: Sektor_62
+    21300126: Sektor_63
+    21300128: Sektor_64
+    21300130: Sektor_65
+    21300132: Sektor_66
+    21300134: Sektor_67
+    21300136: Sektor_68
+    21300138: Sektor_69
+    21300140: Sektor_70
+    21300142: Sektor_71
+    21300144: Sektor_72
+    21300146: Sektor_73
+    21300148: Sektor_74
+    21300150: Sektor_75
+    21300152: Sektor_76
+    21300154: Sektor_77
+    21300156: Sektor_78
+    21300158: Sektor_79
+    21300160: Sektor_80
+    21300162: Sektor_81
+    21300164: Sektor_82
+    21300166: Sektor_83
+    21300168: Sektor_84
+    21300170: Sektor_85
+    21300172: Sektor_86
+    21300174: Sektor_87
+    21300176: Sektor_88
+    21300178: Sektor_89
+    21300180: Sektor_90
+    21300182: Sektor_91
+    21300184: Sektor_92
+    21300186: Sektor_93
+    21300188: Sektor_94
+    21300190: Sektor_95
+    21300192: Sektor_96
+    21300194: Sektor_97
+    21300196: Sektor_98
+    21300198: Sektor_99
+    21300200: Sektor_100
+    21300202: Sektor_101
+    21300204: Sektor_102
+    21300206: Sektor_103
+    21300208: Sektor_104
+    21300210: Sektor_105
+    21300212: Sektor_106
+    21300214: Sektor_107
+    21300216: Sektor_108
+    21300218: Sektor_109
+    21300220: Sektor_110
+    21300222: Sektor_111
+    21300224: Sektor_112
+    21300226: Sektor_113
+    21300228: Sektor_114
+    21300230: Sektor_115
+    21300232: Sektor_116
+    21300234: Sektor_117
+    21300236: Sektor_118
+    21300238: Sektor_119
+    21300240: Sektor_120
+    21300242: Sektor_121
+    21300244: Sektor_122
+    21300246: Sektor_123
+    21300248: Sektor_124
+    21300250: Sektor_125
+    21300252: Sektor_126
+    21300254: Sektor_127
+    21300256: Sektor_128
+    21300258: Sektor_129
+    21300260: Sektor_130
+    21300262: Sektor_131
+    21300264: Sektor_132
+    21300266: Sektor_133
+    21300268: Sektor_134
+    21300270: Sektor_135
+    21300272: Sektor_136
+    21300274: Sektor_137
+    21300276: Sektor_138
+    21300278: Sektor_139
+    21300280: Sektor_140
+    21300282: Sektor_141
+    21300284: Sektor_142
+    21300286: Sektor_143
+    21300288: Sektor_144
+    21300290: Sektor_145
+    21300292: Sektor_146
+    21300294: Sektor_147
+    21300296: Sektor_148
+    21300298: Sektor_149
+    21300300: Sektor_150
+    21300302: Sektor_151
+    21300304: Sektor_152
+    21300306: Sektor_153
+    21300308: Sektor_154
+    21300310: Sektor_155
+    21300312: Sektor_156
+    21300314: Sektor_157
+    21300316: Sektor_158
+    21300318: Sektor_159
+    21300320: Sektor_160
+    21300322: Sektor_161
+    21300324: Sektor_162
+    21300326: Sektor_163
+    21300328: Sektor_164
+    21300330: Sektor_165
+    21300332: Sektor_166
+    21300334: Sektor_167
+    21300336: Sektor_168
+    21300338: Sektor_169
+    21300340: Sektor_170
+    21300342: Sektor_171
+    21300344: Sektor_172
+    21300346: Sektor_173
+    21300348: Sektor_174
+    21300350: Sektor_175
+    21300352: Sektor_176
+    21300354: Sektor_177
+    21300356: Sektor_178
+    21300358: Sektor_179
+    21300360: Sektor_180
+    21300362: Sektor_181
+    21300364: Sektor_182
+    21300366: Sektor_183
+    21300368: Sektor_184
+    21300370: Sektor_185
+    21300372: Sektor_186
+    21300374: Sektor_187
+    21300376: Sektor_188
+    21300378: Sektor_189
+    21300380: Sektor_190
+    21300382: Sektor_191
+    21300384: Sektor_192
+    21300386: Sektor_193
+    21300388: Sektor_194
+    21300390: Sektor_195
+    21300392: Sektor_196
+    21300394: Sektor_197
+    21300396: Sektor_198
+    21300398: Sektor_199
+    21300400: Sektor_200
+    21300402: Sektor_201
+    21300404: Sektor_202
+    21300406: Sektor_203
+    21300408: Sektor_204
+    21300410: Sektor_205
+    21300412: Sektor_206
+    21300414: Sektor_207
+    21300416: Sektor_208
+    21300418: Sektor_209
+    21300420: Sektor_210
+    21300422: Sektor_211
+    21300424: Sektor_212
+    21300426: Sektor_213
+    21300428: Sektor_214
+    21300430: Sektor_215
+    21300432: Sektor_216
+    21300434: Sektor_217
+    21300436: Sektor_218
+    21300438: Sektor_219
+    21300440: Sektor_220
+    21300442: Sektor_221
+    21300444: Sektor_222
+    21300446: Sektor_223
+    21300448: Sektor_224
+    21300450: Sektor_225
+    21300452: Sektor_226
+    21300454: Sektor_227
+    21300456: Sektor_228
+    21300458: Sektor_229
+    21300460: Sektor_230
+    21300462: Sektor_231
+    21300464: Sektor_232
+    21300466: Sektor_233
+    21300468: Sektor_234
+    21300470: Sektor_235
+    21300472: Sektor_236
+    21300474: Sektor_237
+    21300476: Sektor_238
+    21300478: Sektor_239
+    21300480: Sektor_240
+    21300482: Sektor_241
+    21300484: Sektor_242
+    21300486: Sektor_243
+    21300488: Sektor_244
+    21300490: Sektor_245
+    21300492: Sektor_246
+    21300494: Sektor_247
+    21300496: Sektor_248
+    21300498: Sektor_249
+    21300500: Sektor_250
+    21300502: Sektor_251
+    21300504: Sektor_252
+    21300506: Sektor_253
+    21300508: Sektor_254
+    21300510: Sektor_255
+    21300512: Sektor_256
+    21300514: Sektor_257
+    21300516: Sektor_258
+    21300518: Sektor_259
+    21300520: Sektor_260
+    21300522: Sektor_261
+    21300524: Sektor_262
+    21300526: Sektor_263
+    21300528: Sektor_264
+    21300530: Sektor_265
+    21300532: Sektor_266
+    21300534: Sektor_267
+    21300536: Sektor_268
+    21300538: Sektor_269
+    21300540: Sektor_270
+    21300542: Sektor_271
+    21300544: Sektor_272
+    21300546: Sektor_273
+    21300548: Sektor_274
+    21300550: Sektor_275
+    21300552: Sektor_276
+    21300554: Sektor_277
+    21300556: Sektor_278
+    21300558: Sektor_279
+    21300560: Sektor_280
+    21300562: Sektor_281
+    21300564: Sektor_282
+    21300566: Sektor_283
+    21300568: Sektor_284
+    21300570: Sektor_285
+    21300572: Sektor_286
+    21300574: Sektor_287
+    21300576: Sektor_288
+    21300578: Sektor_289
+    21300580: Sektor_290
+    21300582: Sektor_291
+    21300584: Sektor_292
+    21300586: Sektor_293
+    21300588: Sektor_294
+    21300590: Sektor_295
+    21300592: Sektor_296
+    21300594: Sektor_297
+    21300596: Sektor_298
+    21300598: Sektor_299
+    21300600: Sektor_300
+    21300602: Sektor_301
+    21300604: Sektor_302
+    21300606: Sektor_303
+    21300608: Sektor_304
+    21300610: Sektor_305
+    21300612: Sektor_306
+    21300614: Sektor_307
+    21300616: Sektor_308
+    21300618: Sektor_309
+    21300620: Sektor_310
+    21300622: Sektor_311
+    21300624: Sektor_312
+    21300626: Sektor_313
+    21300628: Sektor_314
+    21300630: Sektor_315
+    21300632: Sektor_316
+    21300634: Sektor_317
+    21300636: Sektor_318
+    21300638: Sektor_319
+    21300640: Sektor_320
+    21300642: Sektor_321
+    21300644: Sektor_322
+    21300646: Sektor_323
+    21300648: Sektor_324
+    21300650: Sektor_325
+    21300652: Sektor_326
+    21300654: Sektor_327
+    21300656: Sektor_328
+    21300658: Sektor_329
+    21300660: Sektor_330
+    21300662: Sektor_331
+    21300664: Sektor_332
+    21300666: Sektor_333
+    21300668: Sektor_334
+    21300670: Sektor_335
+    21300672: Sektor_336
+    21300674: Sektor_337
+    21300676: Sektor_338
+    21300678: Sektor_339
+    21300680: Sektor_340
+    21300682: Sektor_341
+    21300684: Sektor_342
+    21300686: Sektor_343
+    21300688: Sektor_344
+    21300690: Sektor_345
+    21300692: Sektor_346
+    21300694: Sektor_347
+    21300696: Sektor_348
+    21300698: Sektor_349
+    21300700: Sektor_350
+    21300702: Sektor_351
+    21300704: Sektor_352
+    21300706: Sektor_353
+    21300708: Sektor_354
+    21300710: Sektor_355
+    21300712: Sektor_356
+    21300714: Sektor_357
+    21300716: Sektor_358
+    21300718: Sektor_359
+    21300720: Sektor_360
+    21300722: Sektor_361
+    21300724: Sektor_362
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sektor_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1774
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1774
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1774
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1774
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1774
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1774
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1774
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1774
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1774
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1774
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1774
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1774
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1774
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1774
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1774
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1774
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_16
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1774
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_17
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1774
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1664
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1664
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1664
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1664
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1664
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1664
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1664
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1664
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1664
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_28
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1664
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1664
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1664
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1664
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_32
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1664
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_33
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1664
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_34
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1664
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1664
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1664
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_37
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1664
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_38
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1664
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_39
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1664
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_40
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1664
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1528
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1528
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1528
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1528
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1528
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_46
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_48
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1528
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1528
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1528
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_52
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1528
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1528
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1528
+        width: 52
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_55
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1528
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_56
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1528
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_57
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1528
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_58
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1528
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_59
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1528
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_60
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1528
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_61
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1528
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_62
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1528
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_63
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_64
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_65
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1528
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1412
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1412
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1412
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1412
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1412
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1412
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1412
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1412
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_74
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1412
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_75
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1412
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1412
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_77
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1412
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_78
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1412
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_79
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1412
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_80
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1412
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_81
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1412
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_82
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1412
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_83
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1412
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_84
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1412
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_85
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1412
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_86
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1412
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1298
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_88
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1298
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1298
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_90
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1298
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1298
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1298
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_93
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1298
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1298
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_95
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1298
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_96
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1298
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_97
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1298
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_98
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1298
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1175
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1175
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1175
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_102
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1175
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1175
+        width: 35
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_104
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1175
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_105
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1175
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_106
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1175
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_107
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1175
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_108
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1175
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_109
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1175
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_110
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1175
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_111
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1175
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_112
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1175
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_113
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1175
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1069
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1069
+        width: 35
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1069
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_117
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1069
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1069
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1069
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_120
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1069
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_121
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1069
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_122
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1069
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_123
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1069
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_124
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1069
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_125
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1069
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_126
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1069
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_127
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1069
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 943
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_129
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 943
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_130
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 943
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_131
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 943
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 943
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_133
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 943
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_134
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 943
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_135
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 943
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_136
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 943
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_137
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 943
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_138
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 943
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_139
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 943
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_140
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 943
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_141
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 943
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_142
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 943
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_143
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 943
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_144
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 943
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_145
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 943
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_146
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 943
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_147
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 943
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_148
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 943
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_149
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 943
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_150
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 943
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_151
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 832
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_152
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 832
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_153
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 832
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_154
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 832
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_155
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 832
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 832
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_157
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 832
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_158
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 832
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_159
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 832
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_160
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 832
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_161
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 832
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_162
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 832
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_163
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 832
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_164
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 832
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_165
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 832
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_166
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 832
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_167
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 832
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 723
+        width: 16
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_169
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 723
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_170
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 723
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 723
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_172
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 723
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_173
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 723
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_174
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 723
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_175
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 723
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_176
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 723
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_177
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 723
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_178
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 723
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_179
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 723
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_180
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 723
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_181
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 723
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_182
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 723
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_183
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 723
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 723
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_185
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 723
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_186
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 723
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_187
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 587
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_188
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 587
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_189
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 587
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_190
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 587
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_191
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 22
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 587
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_193
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 587
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_194
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 587
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_195
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 587
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_196
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 587
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_197
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 587
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_198
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 603
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_199
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 608
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_200
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 587
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_201
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 587
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_202
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 587
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_203
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 587
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_204
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 587
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_205
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 587
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 591
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_207
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 587
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_208
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 587
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_209
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 589
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_210
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 517
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_211
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 517
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_212
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 517
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 517
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_214
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 517
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_215
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 517
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_216
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 517
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_218
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 517
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_219
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 517
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_220
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 517
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_221
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 551
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_222
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 517
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_223
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 529
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_224
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 517
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_225
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 540
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_226
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 517
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_227
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 524
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_228
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 517
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_229
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 517
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_230
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 379
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_231
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 379
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_232
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 379
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_233
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 379
+        width: 71
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_234
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 379
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_235
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 379
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_236
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 379
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_237
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 379
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_238
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 379
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_239
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 379
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_240
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 379
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_241
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 379
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_242
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 379
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_243
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 272
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_244
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 272
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_245
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 272
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_246
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 272
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_247
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 272
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_248
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 272
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_249
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 272
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_250
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 272
+        width: 103
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_251
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 272
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_252
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 272
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_253
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 272
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_254
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 272
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_255
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 272
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_256
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 272
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_257
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 272
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_258
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 272
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_259
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_260
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 124
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_261
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 124
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_262
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 124
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_263
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_264
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 124
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_265
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_266
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 124
+        width: 26
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_267
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 124
+        width: 26
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_268
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 124
+        width: 26
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_269
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 124
+        width: 23
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_270
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 23
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_271
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 124
+        width: 23
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_272
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 124
+        width: 23
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_273
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_274
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_275
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_276
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 75
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_277
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_278
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_279
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_280
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 10
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_281
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 10
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_282
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_283
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_284
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 74
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_286
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_287
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 10
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_288
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_289
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 71
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_290
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_291
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_292
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_293
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_294
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_295
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_296
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 50
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_297
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_298
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 63
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_299
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 10
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_300
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 24
+        width: 248
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_301
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 56
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_302
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_303
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_304
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_305
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 10
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_306
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_307
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_308
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_309
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_310
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_311
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_312
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_313
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 39
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_314
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_315
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_316
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_317
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_318
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 10
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_319
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 39
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_320
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_321
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_322
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 10
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_323
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 21
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_324
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 21
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_325
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 28
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_326
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 33
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_327
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_328
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_329
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 10
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_330
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 10
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_331
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 10
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_332
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_333
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_334
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_335
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 10
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_336
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_337
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_338
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_339
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 20
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_340
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_341
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_342
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_343
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_344
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_345
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 10
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_346
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_347
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_348
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_349
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_350
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_351
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_352
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_353
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_354
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 12
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_355
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_356
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_357
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_358
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_359
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_360
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_361
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sektor_362
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
